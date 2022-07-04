@@ -1,0 +1,24 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Twelve Rivers Foundation & Pharmacy",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "twelve-rivers-backend"
+  },
+  "keywords": [
+    "foundation",
+    "pharmacy"
+  ],
+  "author": "Sadat Arefin Rafat",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.18"
+  }
+}
